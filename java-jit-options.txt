@@ -1,0 +1,8 @@
+[
+{
+ match: "*.*",
+ c1: {
+ Exclude: true
+ }
+}
+]

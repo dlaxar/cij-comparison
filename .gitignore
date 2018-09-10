@@ -1,0 +1,6 @@
+tmp-build/
+.idea/
+bin/
+.RData
+.Rhistory
+
